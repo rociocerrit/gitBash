@@ -5,3 +5,6 @@
 "nariz"
 
 "bigote"
+
+"cejas"
+
